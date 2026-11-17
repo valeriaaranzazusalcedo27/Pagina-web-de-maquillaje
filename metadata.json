@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Velour — Local de Maquillaje",
+  "description": "Local de maquillaje profesional con catálogo completo de cosméticos, galería de productos, servicios de maquillaje y asesoramiento personalizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
